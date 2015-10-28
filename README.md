@@ -1,5 +1,4 @@
 # vim-kv
-## kv language syntax-highlighting plugin
 
 This plugin is used to highlighting kv language syntactically
 
